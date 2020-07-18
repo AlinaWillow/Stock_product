@@ -1,5 +1,5 @@
 # Stock_product
-Stock product program.
+:rocket: Easy and useful program that can help you Stock product!
 
 ### MAIN MENU
 ![image](https://user-images.githubusercontent.com/68222855/87849772-7012d500-c915-11ea-8513-2593d75523f9.png)
